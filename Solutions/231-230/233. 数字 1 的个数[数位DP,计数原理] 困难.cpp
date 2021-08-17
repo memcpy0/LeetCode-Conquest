@@ -1,6 +1,7 @@
 /*
 ** Problem: https://leetcode-cn.com/problems/number-of-digit-one/
 ** Article: https://memcpy0.blog.csdn.net/article/details/119744426
+** Author: memcpy0
 */
 class Solution {
 public:

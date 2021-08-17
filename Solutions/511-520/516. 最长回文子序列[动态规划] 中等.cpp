@@ -1,6 +1,7 @@
 /*
 ** Problem: https://leetcode-cn.com/problems/longest-palindromic-subsequence/
 ** Article: 
+** Author: memcpy0
 */
 class Solution {
 public:

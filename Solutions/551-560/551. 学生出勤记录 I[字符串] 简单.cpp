@@ -1,6 +1,7 @@
 /*
 ** Problem: https://leetcode-cn.com/problems/student-attendance-record-i/
 ** Article: https://memcpy0.blog.csdn.net/article/details/109556361
+** Author: memcpy0
 */
 class Solution {
 public:

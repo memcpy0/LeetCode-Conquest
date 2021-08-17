@@ -1,6 +1,7 @@
 /*
 ** Problem: https://leetcode-cn.com/problems/arithmetic-slices
 ** Article: https://memcpy0.blog.csdn.net/article/details/119641437
+** Author: memcpy0
 */
 class Solution {
 public:
