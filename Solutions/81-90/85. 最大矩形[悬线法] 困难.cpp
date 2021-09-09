@@ -9,7 +9,7 @@ public:
         if (matrix.empty() || matrix[0].empty()) return 0;
         int m = matrix.size(), n = matrix[0].size(), ans = 0;
         using Matrix = vector<vector<int>>;
-        using row = vector<int>;
+        using Row = vector<int>;
         Matrix u(m + 2, row(n + 2)), l(m + 2, row(n + 2)), r(m + 2, row(n + 2)); //便于处理边界
         for (int i = 1; i <= m; ++i) {
             for (int j = 1; j <= n; ++j) {
