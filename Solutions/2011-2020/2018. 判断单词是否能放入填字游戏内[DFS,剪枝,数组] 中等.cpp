@@ -1,6 +1,6 @@
 /*
 ** Problem: https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword/
-** Article: 
+** Article: https://memcpy0.blog.csdn.net/article/details/120559958
 ** Author: memcpy0
 */
 class Solution {
