@@ -1,6 +1,6 @@
 /*
 ** Problem: https://leetcode-cn.com/problems/length-of-last-word/
-** Article: 
+** Article: https://memcpy0.blog.csdn.net/article/details/120545600
 ** Author: memcpy0
 */
 class Solution {
