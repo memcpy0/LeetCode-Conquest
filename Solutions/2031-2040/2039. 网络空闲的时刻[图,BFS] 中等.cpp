@@ -1,5 +1,5 @@
 /*
-** Problem: https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/submissions/
+** Problem: https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/
 ** Article: https://memcpy0.blog.csdn.net/article/details/123624797
 ** Author: memcpy0
 */
