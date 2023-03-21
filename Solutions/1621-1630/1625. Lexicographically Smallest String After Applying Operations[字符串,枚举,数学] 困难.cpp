@@ -1,6 +1,6 @@
 /*
 ** Problem: https://leetcode.cn/problems/lexicographically-smallest-string-after-applying-operations
-** Article: https://memcpy0.blog.csdn.net/article/details/129680088
+** Article: https://memcpy0.blog.csdn.net/article/details/129682784
 ** Author: memcpy0
 */
 
