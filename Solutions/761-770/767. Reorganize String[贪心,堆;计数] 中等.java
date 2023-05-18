@@ -1,6 +1,6 @@
 /*
 ** Problem: https://leetcode.cn/problems/reorganize-string/
-** Article: https://memcpy0.blog.csdn.net/article/details/130744445
+** Article: https://memcpy0.blog.csdn.net/article/details/110389170
 ** Author: memcpy0
 */
 class Solution {
