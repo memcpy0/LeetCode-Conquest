@@ -1,6 +1,6 @@
 /*
 ** Problem: https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree/
-** Article: https://memcpy0.blog.csdn.net/article/details/
+** Article: https://memcpy0.blog.csdn.net/article/details/130779467
 ** Author: memcpy0
 */
 class Solution {
