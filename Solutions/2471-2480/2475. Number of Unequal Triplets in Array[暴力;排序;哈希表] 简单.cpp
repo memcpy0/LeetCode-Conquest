@@ -1,6 +1,6 @@
 /*
 ** Problem: https://leetcode.cn/problems/number-of-unequal-triplets-in-array
-** Article: https://memcpy0.blog.csdn.net/article/details/
+** Article: https://memcpy0.blog.csdn.net/article/details/131247271
 ** Author: memcpy0
 */
 // 哈希表
