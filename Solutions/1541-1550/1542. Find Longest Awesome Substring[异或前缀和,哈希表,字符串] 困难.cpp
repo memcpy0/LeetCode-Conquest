@@ -13,9 +13,11 @@ public:
             xor_sum ^= 1 << (s[i] - '0'); // 特判异或前缀和为0的情况
             if (xor_sum == 0 || ~rec[xor_sum]) ans = max(ans, i - rec[xor_sum]);
             else rec[xor_sum] = i;
-            for (int j = 0; j < 10; ++j)
-                if (~rec[xor_sum ^ (1 << j)])
-                    ans = max(ans, i - rec[xor_sum ^ (1 << j)]);
+            for (int j = 0; j < 10; ++j) {
+                int t = xor_sum ^ (1 << j);
+                if (t == 0 || ~rec[t]) // 特判翻转后为0的情况
+                    ans = max(ans, i - rec[t]);
+            }
         }
         return ans;
     }
