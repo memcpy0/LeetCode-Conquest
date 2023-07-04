@@ -1,5 +1,5 @@
 /*
-** Problem: hhttps://leetcode.cn/problems/add-two-numbers-ii/
+** Problem: https://leetcode.cn/problems/add-two-numbers-ii/
 ** Article: https://memcpy0.blog.csdn.net/article/details/109496392
 ** Author: memcpy0
 */
