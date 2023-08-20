@@ -1,6 +1,6 @@
 /*
 ** Problem: https://leetcode.cn/problems/find-and-replace-in-string/
-** Article: https://memcpy0.blog.csdn.net/article/details/
+** Article: https://memcpy0.blog.csdn.net/article/details/132394155
 ** Author: memcpy0
 */
 // BEST: 字符串+哈希表+模拟
