@@ -1,6 +1,6 @@
 /*
 ** Problem: https://leetcode.cn/problems/counting-bits/
-** Article: https://memcpy0.blog.csdn.net/article/details/121039478
+** Article: https://memcpy0.blog.csdn.net/article/details/132680516
 ** Author: memcpy0
 */
 // BEST: 去除最低设置位
