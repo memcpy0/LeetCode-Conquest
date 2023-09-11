@@ -1,6 +1,6 @@
 /*
 ** Problem: https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options
-** Article: https://memcpy0.blog.csdn.net/article/details/
+** Article: https://memcpy0.blog.csdn.net/article/details/132792675
 ** Author: memcpy0
 */
 // BEST
